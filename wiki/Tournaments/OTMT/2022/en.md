@@ -6,7 +6,7 @@ tags:
 
 # osu!taiko Malaysian Tournament 2022
 
-![OTMT 2022 banner](img/banner.jpg)
+![OTMT 2022 banner](img/OTMT2022_banner.png)
 
 The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the second installment of the osu!taiko Malaysian Tournament.
 
