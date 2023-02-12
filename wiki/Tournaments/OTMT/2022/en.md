@@ -28,11 +28,12 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "1st place") | Unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | RM407 (~94USD), 4 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line, Profile Badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | RM207 (~48USD), 2 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
+| ![Fourth crown](/wiki/shared/crown-bronze.png "4th place") | RM56 (~25USD), 1 month osu Supporter Tag, Custom IRIS Voice Line |
 
-![](img/badge.jpg "ATT 2021 winner badge")
+![](img/OTMT2022_badge.png "OTMT 2022 winner badge")
 
 ## Organisation
 
