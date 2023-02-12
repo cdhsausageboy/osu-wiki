@@ -29,8 +29,8 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 | Placing | Prize |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "1st place") | Unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "1st place") | Unique profile badge |
 
 ![](img/badge.jpg "ATT 2021 winner badge")
 
