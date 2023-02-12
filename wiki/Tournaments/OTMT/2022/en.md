@@ -6,7 +6,7 @@ tags:
 
 # osu!taiko Malaysian Tournament 2022
 
-![OTMT 2022 logo](img/logo.jpg)
+![OTMT 2022 banner](img/banner.jpg)
 
 The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Sparxe](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the seonnd instalment of the osu!taiko Malaysian Tournament.
 
