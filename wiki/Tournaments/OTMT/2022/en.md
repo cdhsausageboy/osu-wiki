@@ -1,8 +1,14 @@
-# Ausu!Taiko Tournament 2021
+---
+tags:
+  - OTMT
+  - OTMT2022
+---
 
-![ATT 2021 logo](img/logo.jpg)
+# osu!taiko Malaysian Tournament 2022
 
-The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It was the seventh instalment of the Ausu!Taiko Tournament.
+![OTMT 2022 logo](img/logo.jpg)
+
+The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Sparxe](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the seonnd instalment of the osu!taiko Malaysian Tournament.
 
 ## Tournament schedule
 
