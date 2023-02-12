@@ -8,20 +8,21 @@ tags:
 
 ![OTMT 2022 banner](img/banner.jpg)
 
-The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Sparxe](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the seonnd instalment of the osu!taiko Malaysian Tournament.
+The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the second installment of the osu!taiko Malaysian Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-03-29/2021-04-05 |
-| Reveal of seedings and groups | 2021-04-18 |
-| Group stage | 2021-04-24/2021-04-25 |
-| Round of 16 | 2021-05-01/2021-05-02 |
-| Quarterfinals | 2021-05-08/2021-05-09 |
-| Semifinals | 2021-05-15/2021-05-16 |
-| Finals | 2021-05-22/2021-05-23 |
-| Grand Finals | 2021-05-29 |
+| Registration phase | 2022-09-17 to 2022-10-01 |
+| Qualifiers Showcase | 2022-10-08 |
+| Qualifiers & Seedings Reveal | 2022-10-15 to 2022-10-16 |
+| Group stage | 2022-10-22 to 2022-10-23 |
+| Round of 16 | 2022-10-29 to 2022-10-30 |
+| Quarterfinals | 2022-11-05 to 2022-11-06 |
+| Semifinals | 2022-11-12 to 2022-11-13 |
+| Finals | 2022-11-19 to 2022-11-20 |
+| Grand Finals | 2022-11-27 |
 
 ## Prizes
 
