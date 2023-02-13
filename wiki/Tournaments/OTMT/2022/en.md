@@ -89,9 +89,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=MY }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [jmeh07](https://osu.ppy.sh/users/2852269) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [Jyakeii](https://osu.ppy.sh/users/12086753) |
 | *4th place* | 
 
 ## Mappools
@@ -431,7 +431,7 @@ Sunday, 25 April 2021:
 2. ScoreV2 with the Head-to-Head option will be used .
 3. The score format of each round is as listed below:
 
- | Round	| Format | Points to Win |
+| Round	| Format | Points to Win |
 | --- |   -----   | :---: |
 | Group Stage	| Best-of-9	| 5 |
 | Round of 16 |	Best-of-9	| 5 |
