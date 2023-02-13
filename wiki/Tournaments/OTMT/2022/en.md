@@ -411,7 +411,7 @@ Sunday, 25 April 2021:
 | **Volta** ::{ flag=ID }:: | **4** | 0 | ::{ flag=NZ }:: Bwhaa | [#1](https://osu.ppy.sh/community/matches/81759925) |
 | kuudere-desu ::{ flag=SG }:: | -1 | **0** | ::{ flag=TH }:: **KappuChinooo** | *win by default* |
  
-  <details>
+</details>
 
 ## Ruleset
 
