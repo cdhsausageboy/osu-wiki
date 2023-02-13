@@ -57,20 +57,20 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 - [Livestream](https://www.twitch.tv/osutaikomalaysia)
 - [Challonge bracket](https://challonge.com/eq90t8gq)
 - [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1ujdTXdpU2SyCneFrgARIsfUnOsfwL7rrS2nhTimSElo/edit#gid=1945276977)
-
-<details>
-  <summary>Placeholders</summary>
  
 ## Participants
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647), ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467), ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269), ::{ flag=TH }:: [Ponamis](https://osu.ppy.sh/users/7897892), ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722), ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) |
-| High | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992), ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125), ::{ flag=SG }:: [Prehistoria](https://osu.ppy.sh/users/8364237), ::{ flag=SG }:: [tzechi](https://osu.ppy.sh/users/4662795), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) |
-| Mid | ::{ flag=TH }:: [ConieSan](https://osu.ppy.sh/users/2035344), ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=PH }:: [DescriptiCringe](https://osu.ppy.sh/users/10882115) |
-| Low | ::{ flag=NZ }:: [arley\_](https://osu.ppy.sh/users/9039824), ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501), ::{ flag=NZ }:: [Bwhaa](https://osu.ppy.sh/users/7960435), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=SG }:: [kuudere-desu](https://osu.ppy.sh/users/10694200), ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451), ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885), ::{ flag=MY }:: [nikolpai\_15](https://osu.ppy.sh/users/11584592) |
-| Unseeded | ::{ flag=SG }:: [dantoh000](https://osu.ppy.sh/users/11414361), ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=TH }:: [KappuChinooo](https://osu.ppy.sh/users/9582525), ::{ flag=MY }:: [TaikOseania](https://osu.ppy.sh/users/14036825) |
+| Top | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
+| High | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
+| Low | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
+| Unseeded | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
 
+
+<details>
+  <summary>Placeholders</summary>
+  
 ## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed | Unseeded |
