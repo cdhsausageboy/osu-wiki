@@ -412,29 +412,35 @@ Sunday, 25 April 2021:
 
 ## Ruleset
 
+### Registration rules
+
+1. This tournament is open to ALL players with the Malaysian flag on their profile. However, it is highly recommended that you are able to at least play the Group Stage pool of the previous OTMT if you are participating this year.
+2. You MUST join the [osu!taiko Malaysia Discord Server](https://discord.gg/8PTAJJaPKa) to be eligible for the tournament.
+3. All registered players will undergo an initial screening process by the osu!staff and any players that do not pass the screening will not be eligible to participate in the tournament. Results of the screening will be announced in the Discord server.
+4. The star rating of the mappool throughout the tournament is estimated to go from ~4.5* in the early rounds to ~7* in the later stages.
+
 ### General rules
 
-1. The tournament is open to players living in Australia, New Zealand, Malaysia, Singapore, Indonesia, Philippines, and Thailand. Recommended rank is #7,500+.
-2. The tournament style is a double-elimination bracket.
-3. Players will be seeded by global rank.
-4. The tournament will take the best of the first 32 entrants (given they fit the next rule).
-5. There is an ambiguous rank limit, as many countries have a large gap somewhere in their top five players, which leaves a large gap in competitive skill. As a result, some players may be denied entry to participate (as a guideline, around 8,500 pp is the desired cap).
-6. Poor attitude towards other players or tournament staff will result in disqualification (this point applies to staff members as well).
-
-### Match rules
-
 1. The tournament is a 1v1 osu!taiko match; highest score wins.
-2. Scoring will be calculated via **ScoreV2**.
-3. The mappool will change in size depending on round, but at a very minimum will contain 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
+2. ScoreV2 with the Head-to-Head option will be used .
+3. The score format of each round is as listed below
+| Round	| Format | Points to Win |
+Group Stage	Best-of-9	5
+Round of 16	Best-of-9	5
+Quarterfinals	Best-of-11	6
+Semifinals	Best-of-11	6
+Finals	Best-of-13	7
+Grand Finals	Best-of-13	7
+4. The mappool will change in size depending on round, but at a very minimum will contain 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
    - FreeMod consists of Hidden, HardRock, or Hidden+HardRock. No other mods/combinations of mods may be used (this includes NM).
-4. Players can request to use Nightcore instead of DoubleTime, but the opponent must also agree upon the request.
-5. Players are allowed one ban per match.
-6. Players can pick a warmup with the max length of **four minutes**.
-7. `!roll` will determine who will pick the first beatmap.
-8. The player with the lowest `!roll` score will ban first, followed by their opponent.
-9. Players have 10 minutes in Group Stage or 15 minutes in every stage above to attend their match before a win by default is given to the other player.
-10. If both players fail, the player with the highest failed score wins the point.
-11. If the scores are tied, then the beatmap will be played again and no point(s) will be awarded.
+5. Players can request to use Nightcore instead of DoubleTime, but the opponent must also agree upon the request.
+6. Players are allowed one ban per match.
+7. Players can pick a warmup with the max length of **four minutes**.
+8. `!roll` will determine who will pick the first beatmap.
+9. The player with the lowest `!roll` score will ban first, followed by their opponent.
+10. Players have 10 minutes in Group Stage or 15 minutes in every stage above to attend their match before a win by default is given to the other player.
+11. If both players fail, the player with the highest failed score wins the point.
+12. If the scores are tied, then the beatmap will be played again and no point(s) will be awarded.
     - If there exists two ties in a row on the same beatmap, the map may be nullified and not reused. The player whom selected the tied map may pick again.
 
 #### Tournament structure
