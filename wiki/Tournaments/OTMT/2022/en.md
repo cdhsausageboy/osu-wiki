@@ -466,7 +466,7 @@ Sunday, 25 April 2021:
 9. Players should ensure that they have all the maps downloaded before the start of their match. In the event that a player is missing a map, they will automatically lose the point if they are unable to download it within the 2 minutes given.
 10. Players may ask for a Tactical Timeout during a match, and this will add an extra 2 minutes to the timer. This can only be used ONCE per match.
 11. A rematch of the same map will be given if a player disconnects within the first 30 seconds of the map. Any subsequent disconnections on the same map will be treated as a point loss.
-  -- Lag is not a valid reason to restart a map.
+    - Lag is not a valid reason to restart a map.
 12. In the event of a tie in scores, the map will be played again (both players will not gain points).
 13. In the unlikely event that both players get a tied score two times in a row on the same map, the map will be nullified and another map needs to be picked (by the other player).
 14. Failed scores will be counted.
