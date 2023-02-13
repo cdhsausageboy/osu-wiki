@@ -53,8 +53,8 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1284274)
-- [Livestream](https://www.twitch.tv/sparxenic)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1629138)
+- [Livestream](osutaikomalaysia)
 - [Challonge bracket](https://challonge.com/ausutaiko2021)
 - Spreadsheet
   - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing)
@@ -421,6 +421,7 @@ Sunday, 25 April 2021:
 
 1. This tournament is open to ALL players with the Malaysian flag on their profile. However, it is highly recommended that you are able to at least play the Group Stage pool of the previous OTMT if you are participating this year.
 2. You MUST join the [osu!taiko Malaysia Discord Server](https://discord.gg/8PTAJJaPKa) to be eligible for the tournament.
+3. Registrations must be submitted through the [official OTMT website](https://otmt2022.osumalaysia.org/home) when the links are available on 17th September.
 3. All registered players will undergo an initial screening process by the osu!staff and any players that do not pass the screening will not be eligible to participate in the tournament. Results of the screening will be announced in the Discord server.
 4. The star rating of the mappool throughout the tournament is estimated to go from ~4.5* in the early rounds to ~7* in the later stages.
 
