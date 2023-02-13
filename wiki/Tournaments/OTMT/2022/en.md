@@ -442,10 +442,21 @@ Sunday, 25 April 2021:
 5. If required, players may request for a reschedule of their matches via the #otmt-reschedule channel in the Discord server.
 - Reschedules will only be allowed before the Thursdays, 23:59 UTC+8 of every week.
 
-#### Tournament structure
+### Tournament structure
 
 1. The tournament starts off with the Qualifiers stage to sort the players into their respective seedings in the Top 32 (Top Seed, High Seed, Low Seed, etc).
 2. The top 32 players will then advance to the Group Stages to further narrow down the players into the Top 16.
 3. In the Group Stages, players will be arranged into 8 separate groups of 4, with each group consisting of one player from each seed ranking (top, high, mid, low).
 4. The four players will be matched against each other throughout the weekend and the two (2) players with the highest number of W:L (win-loss) ratio will advance to the RO16.
 5. If the number of registrants are below 32, some groups will only consist of 3 players.
+  
+### Match rules
+  
+1. Players are required to be present at the times of their match, a reminder in the form of a Discord ping will be given to the players 15 minutes before every match.
+2. Invites to the room will then be sent out 10 minutes before each match.
+- Failure to arrive on time will result in the following penalties:
+  a. 5-minutes: Player’s warmup will be skipped.
+  b. 10-minutes: Player’s map ban privilege goes to the opposing player.
+  c. 15-minutes: Player loses by default.
+  
+
