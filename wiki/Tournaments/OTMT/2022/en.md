@@ -474,3 +474,11 @@ Sunday, 25 April 2021:
 16. Unexpected incidents will be handled by the referee or tournament host.
   
 
+### Mappool Structure
+  
+1. The mappool consists of the following brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+2. The Hidden, HardRock and DoubleTime brackets consists of 2 maps each across all stages.
+3. The NoMod bracket consists of 3 maps in Group Stage, 4 maps in RO16, 4 maps in Quarterfinals, 5 maps in Semifinals, 6 maps in Finals and Grand Finals.
+4. The FreeMod bracket consists of 2 maps in Group Stage and RO16, with 3 maps across the remaining stages.
+5. Players may choose to play with NoMod, Hidden, HardRock or a combination of Hidden and HardRock for the FreeMod picks.
+6. The Tiebreaker will be played under FreeMod conditions.
