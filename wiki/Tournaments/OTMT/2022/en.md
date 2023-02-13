@@ -6,7 +6,7 @@ tags:
 
 # osu!taiko Malaysian Tournament 2022
 
-![OTMT 2022 banner](img/OTMT2022_banner.png)
+![OTMT 2022 banner](img/banner2022.png)
 
 The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the second installment of the osu!taiko Malaysian Tournament.
 
@@ -33,7 +33,7 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
 | *4th place* | RM56 (~25USD), 1 month osu Supporter Tag, Custom IRIS Voice Line |
 
-![](img/OTMT2022_badge.png "OTMT 2022 winner badge")
+![](img/badge2022.png "OTMT 2022 winner badge")
 
 <details>
   <summary>Placeholders</summary>
@@ -89,9 +89,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=MY }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [jmeh07](https://osu.ppy.sh/users/2852269) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+| *4th place* | 
 
 ## Mappools
 
