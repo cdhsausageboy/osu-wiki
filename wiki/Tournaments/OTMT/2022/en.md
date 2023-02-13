@@ -441,7 +441,6 @@ Sunday, 25 April 2021:
 4. The tournament host will release the mappool and schedules one week before each round.
 5. If required, players may request for a reschedule of their matches via the #otmt-reschedule channel in the Discord server.
 - Reschedules will only be allowed before the Thursdays, 23:59 UTC+8 of every week.
- there exists two ties in a row on the same beatmap, the map may be nullified and not reused. The player whom selected the tied map may pick again.
 
 #### Tournament structure
 
