@@ -430,7 +430,7 @@ Sunday, 25 April 2021:
 2. ScoreV2 with the Head-to-Head option will be used .
 3. The score format of each round is as listed below:
 
-| Round	| Format | Points to Win |
+ | Round	| Format | Points to Win |
 | --- |   -----   | :---: |
 | Group Stage	| Best-of-9	| 5 |
 | Round of 16 |	Best-of-9	| 5 |
