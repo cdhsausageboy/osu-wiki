@@ -434,22 +434,15 @@ Sunday, 25 April 2021:
 | Finals | Best-of-13 | 7 |
 | Grand Finals | Best-of-13 | 7 |
 
-4. The mappool will change in size depending on round, but at a very minimum will contain 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
-   - FreeMod consists of Hidden, HardRock, or Hidden+HardRock. No other mods/combinations of mods may be used (this includes NM).
-5. Players can request to use Nightcore instead of DoubleTime, but the opponent must also agree upon the request.
-6. Players are allowed one ban per match.
-7. Players can pick a warmup with the max length of **four minutes**.
-8. `!roll` will determine who will pick the first beatmap.
-9. The player with the lowest `!roll` score will ban first, followed by their opponent.
-10. Players have 10 minutes in Group Stage or 15 minutes in every stage above to attend their match before a win by default is given to the other player.
-11. If both players fail, the player with the highest failed score wins the point.
-12. If the scores are tied, then the beatmap will be played again and no point(s) will be awarded.
-    - If there exists two ties in a row on the same beatmap, the map may be nullified and not reused. The player whom selected the tied map may pick again.
+4. The tournament host will release the mappool and schedules one week before each round.
+5. If required, players may request for a reschedule of their matches via the #otmt-reschedule channel in the Discord server.
+- Reschedules will only be allowed before the Thursdays, 23:59 UTC+8 of every week.
+ there exists two ties in a row on the same beatmap, the map may be nullified and not reused. The player whom selected the tied map may pick again.
 
 #### Tournament structure
 
-1. Seeding is based off of the player's ranking; there will be four seed categories and every player will fit into one of these depending on their total osu!taiko pp compared to the rest of the players. Groups for the Group Stage will be groups of four, where each player is from a different seed category (this may change depending on the number of participants).
-2. 4 points to win the match in the Group Stage.
-3. 5 points to win the match in the Round of 16.
-4. 6 points to win the match in the Quarterfinals and the Semifinals.
-5. 7 points to win the match in the Finals.
+1. The tournament starts off with the Qualifiers stage to sort the players into their respective seedings in the Top 32 (Top Seed, High Seed, Low Seed, etc).
+2. The top 32 players will then advance to the Group Stages to further narrow down the players into the Top 16.
+3. In the Group Stages, players will be arranged into 8 separate groups of 4, with each group consisting of one player from each seed ranking (top, high, mid, low).
+4. The four players will be matched against each other throughout the weekend and the two (2) players with the highest number of W:L (win-loss) ratio will advance to the RO16.
+5. If the number of registrants are below 32, some groups will only consist of 3 players.
