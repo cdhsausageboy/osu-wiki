@@ -66,23 +66,19 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 | High | ::{ flag=MY }:: [Megumin-Sama](https://osu.ppy.sh/u/6201335), ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284), ::{ flag=MY }:: [pisu](https://osu.ppy.sh/u/8339729), ::{ flag=MY }:: [PollyDoggo](https://osu.ppy.sh/u/11584592), ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/u/15019527), ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395), ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/u/7066483), ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/u/5616675) |
 | Low | ::{ flag=MY }:: [shaofoong](https://osu.ppy.sh/u/2398341), ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008), ::{ flag=MY }:: [NickkyOnce](https://osu.ppy.sh/u/10508577), ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/u/10194919), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/u/9627666), ::{ flag=MY }:: [Haryume](https://osu.ppy.sh/u/9351030), ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/u/7263047), ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/u/6859713) |
 | Unseeded | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/u/1810773), ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/u/9124278), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/u/3645490) |
-
-
-<details>
-  <summary>Placeholders</summary>
   
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 
-| **B** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 
-| **C** | ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467) | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530) | ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885) | - |
-| **D** | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969) | ::{ flag=PH }:: [DescriptiCringe](https://osu.ppy.sh/users/10882115) | ::{ flag=NZ }:: [Bwhaa](https://osu.ppy.sh/users/7960435) | - |
-| **E** | ::{ flag=TH }:: [Ponamis](https://osu.ppy.sh/users/7897892) | ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) | ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | ::{ flag=SG }:: [dantoh000](https://osu.ppy.sh/users/11414361) |
-| **F** | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) | ::{ flag=SG }:: [tzechi](https://osu.ppy.sh/users/4662795) | ::{ flag=TH }:: [ConieSan](https://osu.ppy.sh/users/2035344) | ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) | ::{ flag=MY }:: [TaikOseania](https://osu.ppy.sh/users/14036825) |
-| **G** | ::{ flag=ID }:: [misaki_tk](https://osu.ppy.sh/users/3866964) | ::{ flag=SG }:: [Prehistoria](https://osu.ppy.sh/users/8364237) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) | ::{ flag=NZ }:: [arley\_](https://osu.ppy.sh/users/9039824) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
-| **H** | ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269) | ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ::{ flag=MY }:: [nikolpai\_15](https://osu.ppy.sh/users/11584592) | - |
+| **A** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 
+| **B** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| **C** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| **D** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| **E** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| **F** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| **G** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| **H** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
 
 ## Podium
 
@@ -94,6 +90,10 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [Jyakeii](https://osu.ppy.sh/users/12086753) |
 | *4th place* | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/users/10167542) |
+
+
+<details>
+  <summary>Placeholders</summary>
 
 ## Mappools
 
