@@ -43,7 +43,7 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 | :-- | :-- |
 | Organizer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
 | Mappool selector | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
-| Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380), ::{ flag=MY }:: [IoEtoile](https://osu.ppy.sh/users/6709853), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/u/5091293), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=SG }:: [\[arcpotato\]](https://osu.ppy.sh/u/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621)) |
+| Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380), ::{ flag=MY }:: [IoEtoile](https://osu.ppy.sh/users/6709853), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/u/5091293), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=SG }:: [\[arcpotato\]](https://osu.ppy.sh/u/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621) |
 | Streamer | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
 | Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Statistician | ::{ flag=US }:: [zachmanthethird](https://osu.ppy.sh/users/15048710) |
@@ -51,12 +51,11 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 
 ## Links
 
+- [Official Website](https://otmt2022.osumalaysia.org/)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1629138)
-- [Livestream](osutaikomalaysia)
-- [Challonge bracket](https://challonge.com/ausutaiko2021)
-- Spreadsheet
-  - [Schedule](https://docs.google.com/spreadsheets/d/18xadwgbLM3mc5nPs316bF0OSwcyyGSgibFEv_hNkgeU/edit?usp=sharing)
-  - [Mappool](https://docs.google.com/spreadsheets/d/1dUo00W0UH3pgq1wPru-U9EGf35qAisRyM2C6OWBn2Ns/edit?usp=sharing)
+- [Livestream](https://www.twitch.tv/osutaikomalaysia)
+- [Challonge bracket](https://challonge.com/eq90t8gq)
+- [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1ujdTXdpU2SyCneFrgARIsfUnOsfwL7rrS2nhTimSElo/edit#gid=1945276977)
 
 <details>
   <summary>Placeholders</summary>
