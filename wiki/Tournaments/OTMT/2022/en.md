@@ -6,7 +6,7 @@ tags:
 
 # osu!taiko Malaysian Tournament 2022
 
-![OTMT 2022 banner](img/banner2022.png)
+![OTMT 2022 Banner](img/banner2022.png "OTMT 2022 Banner")
 
 The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the second installment of the osu!taiko Malaysian Tournament.
 
@@ -33,7 +33,7 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
 | *4th place* | RM56 (~25USD), 1 month osu Supporter Tag, Custom IRIS Voice Line |
 
-![](img/badge2022.png "OTMT 2022 winner badge")
+![OTMT 2022 Winner Badge](img/badge2022.png "OTMT 2022 Winner Badge")
 
 <details>
   <summary>Placeholders</summary>
