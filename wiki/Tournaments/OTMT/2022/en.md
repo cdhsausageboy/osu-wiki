@@ -454,9 +454,9 @@ Sunday, 25 April 2021:
   
 1. Players are required to be present at the times of their match, a reminder in the form of a Discord ping will be given to the players 15 minutes before every match.
 2. Invites to the room will then be sent out 10 minutes before each match.
-  * Failure to arrive on time will result in the following penalties:
-   - 5-minutes: Player’s warmup will be skipped.
-   - 10-minutes: Player’s map ban privilege goes to the opposing player.
-   - 15-minutes: Player loses by default.
+  - Failure to arrive on time will result in the following penalties:
+    - 5-minutes: Player’s warmup will be skipped.
+    - 10-minutes: Player’s map ban privilege goes to the opposing player.
+    - 15-minutes: Player loses by default.
   
 
