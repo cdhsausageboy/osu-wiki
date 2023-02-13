@@ -428,12 +428,12 @@ Sunday, 25 April 2021:
 | Round	| Format | Points to Win |
 | --- | --- | --- |
 | Group Stage	| Best-of-9	| 5 |
+| Round of 16 |	Best-of-9	| 5 |
+| Quarterfinals	| Best-of-11 | 6 |
+| Semifinals | Best-of-11	| 6 |
+| Finals | Best-of-13 | 7 |
+| Grand Finals | Best-of-13 | 7 |
 
-Round of 16	Best-of-9	5
-Quarterfinals	Best-of-11	6
-Semifinals	Best-of-11	6
-Finals	Best-of-13	7
-Grand Finals	Best-of-13	7
 4. The mappool will change in size depending on round, but at a very minimum will contain 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker.
    - FreeMod consists of Hidden, HardRock, or Hidden+HardRock. No other mods/combinations of mods may be used (this includes NM).
 5. Players can request to use Nightcore instead of DoubleTime, but the opponent must also agree upon the request.
