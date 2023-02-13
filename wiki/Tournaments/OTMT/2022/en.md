@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [Jyakeii](https://osu.ppy.sh/users/12086753) |
-| *4th place* | 
+| *4th place* | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/users/10167542) |
 
 ## Mappools
 
