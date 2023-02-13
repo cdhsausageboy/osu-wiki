@@ -44,10 +44,11 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 | Organizer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
 | Mappool selector | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
 | Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380), ::{ flag=MY }:: [IoEtoile](https://osu.ppy.sh/users/6709853), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/u/5091293), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=SG }:: [\[arcpotato\]](https://osu.ppy.sh/u/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621) |
-| Streamer | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
-| Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Statistician | ::{ flag=US }:: [zachmanthethird](https://osu.ppy.sh/users/15048710) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Streamer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/u/7138499), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=MY }:: [Cheeeeeeeeeew](https://osu.ppy.sh/u/7798789), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380) |
+| Commentator | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
+| Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/u/7138499) |
+| Website Editor | ::{ flag=MY }:: [Kokoro Amamiya](https://osu.ppy.sh/users/9534110) |
+| Wiki editor | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621) |
 
 ## Links
 
