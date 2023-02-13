@@ -91,16 +91,13 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [Jyakeii](https://osu.ppy.sh/users/12086753) |
 | *4th place* | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/users/10167542) |
 
-
 <details>
   <summary>Placeholders</summary>
 
 ## Mappools
 
 ### Grand Finals
-
-**[Download the mappack here! (117 MB)](https://mega.nz/file/vzoE3R7Y#mp2bNhfEL8UFO9LRL1SUpFi7pMVfoxTW3aTh2fUBJvk)**
-
+  
 - NoMod
   1. [Kobaryo - Transceiver FX (Hivie) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1328018#taiko/2751152)
   2. [Tanchiky - ENERGY SYNERGY MATRIX (Genjuro) \[E.S.M.\]](https://osu.ppy.sh/beatmapsets/1247020#taiko/2591999)
@@ -126,8 +123,6 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (68 MB)](https://mega.nz/file/O2BzBKiI#WoW-x4LM_mvIPmSsNTXy3DvF8arwJE2tUwcC2dIyiks)**
-
 - NoMod
   1. [Kobaryo - HUG AND KILL (vzk) \[nerf\]](https://osu.ppy.sh/beatmapsets/773541#taiko/1626066)
   2. [USAO - Chariot (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1252022#taiko/2602256)
@@ -152,9 +147,7 @@ This competition has come to an end and resulted in the following podium:
   1. **[LeaF - Wizdomiot (extended ver.) (yassu-) \[Jealous Oni\]](https://osu.ppy.sh/beatmapsets/988522#taiko/2067808)**
 
 ### Semifinals
-
-**[Download the mappack here! (98 MB)](https://mega.nz/file/njYSyTKS#ypEKEeqgJSDpnjgmLAiyivefJl1iY4otlZCW4sCF-VI)**
-
+  
 - NoMod
   1. [katagiri - #2wise4u (maguro869) \[#magur0\]](https://osu.ppy.sh/beatmapsets/995928#taiko/2083254)
   2. [DJHASH1M0T0KANNA - BangB00gie (7\_7) \[YuniNana Boogie\]](https://osu.ppy.sh/beatmapsets/1079552#taiko/2258650)
@@ -180,8 +173,6 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (78 MB)](https://mega.nz/file/Dnxw0RTI#2UC44Xg1Nbfd0-IucNmAOKECAd3n9YyU33ohWdTWFLI)**
-
 - NoMod
   1. [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
   2. [t+pazolite vs. P\*Light - IZANA (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1098381#taiko/2294846)
@@ -205,8 +196,6 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/1DksCzwr0ei44qIIdS-l7-grU5liRRkxb/view?usp=sharing)**
-
 - NoMod
   1. [sabi\_c - Class B (Maeda) \[Diff A\]](https://osu.ppy.sh/beatmapsets/1295205#taiko/2687456)
   2. [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
@@ -229,8 +218,6 @@ This competition has come to an end and resulted in the following podium:
   1. **[Camellia - Quaoar (Nepuri) \[Transneptunian\]](https://osu.ppy.sh/beatmapsets/931741#taiko/1945451)**
 
 ### Group stage
-
-**[Download the mappack here! (53 MB)](https://drive.google.com/file/d/1_9FfeVHDMf3fMae8ZxMMWkrEESVETm-r/view?usp=sharing)**
 
 - NoMod
   1. [Rob Gasser - Taking Over (feat. Miyoki) (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1118937#taiko/2339203)
