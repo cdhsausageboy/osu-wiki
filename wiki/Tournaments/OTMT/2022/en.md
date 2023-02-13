@@ -36,6 +36,7 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 ![](img/OTMT2022_badge.png "OTMT 2022 winner badge")
 
 <details>
+  <summary>Placeholders</summary>
  ## Organisation
 
 The Ausu!Taiko Tournament 2021 was run by various community members.
