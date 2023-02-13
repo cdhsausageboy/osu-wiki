@@ -73,10 +73,9 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
   
 ## Groups
 
-| Group | Top seed | High seed | Mid seed | Low seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380) | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504) | ::{ flag=SG }:: [kuudere-desu](https://osu.ppy.sh/users/10694200) | ::{ flag=TH }:: [KappuChinooo](https://osu.ppy.sh/users/9582525) |
-| **B** | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247) | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451) | - |
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | **B** | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247) | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451) | - |
 | **C** | ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467) | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530) | ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885) | - |
 | **D** | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969) | ::{ flag=PH }:: [DescriptiCringe](https://osu.ppy.sh/users/10882115) | ::{ flag=NZ }:: [Bwhaa](https://osu.ppy.sh/users/7960435) | - |
 | **E** | ::{ flag=TH }:: [Ponamis](https://osu.ppy.sh/users/7897892) | ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) | ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | ::{ flag=SG }:: [dantoh000](https://osu.ppy.sh/users/11414361) |
