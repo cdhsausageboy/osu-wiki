@@ -15,8 +15,9 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-09-17 to 2022-10-01 |
-| Qualifiers Showcase | 2022-10-08 |
-| Qualifiers & Seedings Reveal | 2022-10-15 to 2022-10-16 |
+| Qualifier Showcase | 2022-10-08 |
+| Qualifiers | 2022-10-15 to 2022-10-16 |
+| Seeding Reveal | 2022-10-16 |
 | Group stage | 2022-10-22 to 2022-10-23 |
 | Round of 16 | 2022-10-29 to 2022-10-30 |
 | Quarterfinals | 2022-11-05 to 2022-11-06 |
@@ -28,10 +29,10 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | RM407 (~94USD), 4 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line, Profile Badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | RM207 (~48USD), 2 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
-| *4th place* | RM56 (~13USD), 1 month osu Supporter Tag, Custom IRIS Voice Line |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | RM407 (~94USD), 4 month osu!supporter, custom deskpad, custom IRIS voice line, profile adge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | RM207 (~48USD), 2 month osu!supporter, custom deskpad, custom IRIS voice line |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu!supporter, custom deskpad, custom IRIS voice line |
+| *4th place* | RM56 (~13USD), 1 month osu!supporter, custom IRIS voice line |
 
 ![OTMT 2022 Winner Badge](img/badge2022.png "OTMT 2022 Winner Badge")
 
@@ -122,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [ Hommarju feat. mamiko -  Katayoku no tori (vzk) \[Judgment (OTMT ver.)\]](https://osu.ppy.sh/b/3880490)
-  2. 🎵 [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
+  2. [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
   3. [Se-U-Ra - Pale and dazzling dreamscape (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/b/3823066)
   4. [Brandy - Cross Time !! (\_gt) \[Fever Time!!\]](https://osu.ppy.sh/b/3881848)
   5. [Laur feat. Mishamo - Let's! Miracle\*HARDCORE! (N a N a) \[Waifucore\]](https://osu.ppy.sh/b/3680132)
@@ -170,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - NoMod
-  1. 🎵 [cexiria - Early Trial (KTYN) \[Trial\]](https://osu.ppy.sh/b/3860528)
+  1. [cexiria - Early Trial (KTYN) \[Trial\]](https://osu.ppy.sh/b/3860528)
   2. [Snails House - waiting for you in snowing city (Megafan) \[fubuki. (otmt ver.)\]](https://osu.ppy.sh/b/3860636)
   3. [ELFENSJoN - Naraku no Majou (arcpotato) \[Deceit\]](https://osu.ppy.sh/b/3860537)
   4. [Stray Kids - God's Menu (cdh) \[satania milk\]](https://osu.ppy.sh/b/3860544)
@@ -438,8 +439,8 @@ Sunday, 23 Oct 2022:
 1. Players are required to be present at the times of their match, a reminder in the form of a Discord ping will be given to the players 15 minutes before every match.
 2. Invites to the room will then be sent out 10 minutes before each match.
 3. Failure to arrive on time will result in the following penalties:
-   - 5-minutes: Player’s warmup will be skipped.
-   - 10-minutes: Player’s map ban privilege goes to the opposing player.
+   - 5-minutes: Player's warmup will be skipped.
+   - 10-minutes: Player's map ban privilege goes to the opposing player.
    - 15-minutes: Player loses by default.
 4. Warmups must be sent to the referees at least 30 minutes before the start of the map, the warmup should be less than 3 minutes in length and not contain inappropriate content. The referee reserves the right to reject maps that they deem to be inappropriate.
 5. At the start of each match, players will be asked to **!roll** to determine who picks or bans first. The player with the higher roll will get to pick first and ban second.
