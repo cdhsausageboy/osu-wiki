@@ -264,6 +264,13 @@ Saturday, 29 May 2021:
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 
+Saturday, 29 May 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :-: | :-- |
+| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+
 ### Finals
 
 Saturday, 22 May 2021:
