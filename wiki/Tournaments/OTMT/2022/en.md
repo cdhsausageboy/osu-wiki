@@ -93,8 +93,6 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-🎵 **= Custom song**
-
 ### Grand Finals
   
 - NoMod
@@ -118,7 +116,7 @@ This competition has come to an end and resulted in the following podium:
   2. [EmoCosine - Nekojarashi (ler1211) \[Nya! (OTMT Edit.)\]](https://osu.ppy.sh/b/3891674)
   3. [Loli in early 20s - Wa Yoderi (Megafan) \[Seishinbyou (OTMT Ver.)\]](https://osu.ppy.sh/b/3892525)
 - Tiebreaker
-  1. 🎵 **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)** 
+  1. **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)** 
 
 ### Finals
 
@@ -143,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
   2. [momone - dont say you quit the art course (Rinze) \[resolution\]](https://osu.ppy.sh/b/3881885)
   3. [METRO MEW - Kasou Na Heartbeat (Jerry) \[Serenity\]](https://osu.ppy.sh/b/3392670)
 - Tiebreaker
-  1. 🎵 **[Sparxe - What Do You C? (gaston\_2199, Megafan & KyeX) \[A Sight To Behold\]](https://osu.ppy.sh/b/3881919)**
+  1. **[Sparxe - What Do You C? (gaston\_2199, Megafan & KyeX) \[A Sight To Behold\]](https://osu.ppy.sh/b/3881919)**
 
 ### Semifinals
   
@@ -167,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Curren - worldwidesuperstar (Rinze) \[Idol\]](https://osu.ppy.sh/b/3871508)
   3. [Erehamonika - Der Wald (Kors K Remix) (NoFool) \[Hard Oni\]](https://osu.ppy.sh/b/932407)
 - Tiebreaker
-  1. 🎵 **[HowToPlayLN - Disintegration of the Isolated Forest (Ph0eNiiXZ & Kusuhara Yui) \[Sacred Utopia Collab (OTMT edit)\]](https://osu.ppy.sh/b/3871512)**
+  1. **[HowToPlayLN - Disintegration of the Isolated Forest (Ph0eNiiXZ & Kusuhara Yui) \[Sacred Utopia Collab (OTMT edit)\]](https://osu.ppy.sh/b/3871512)**
   
 ### Quarterfinals
 
@@ -190,14 +188,14 @@ This competition has come to an end and resulted in the following podium:
   2. [DUSTCELL - DERO (Genjuro) \[INNER ONI\]](https://osu.ppy.sh/b/3033441)
   3. [Alex C. feat Yasmin K. - Angel of Darkness (Nightcore Mix) (Rinze) \[OTMT Angel\]](https://osu.ppy.sh/b/3860600)
 - Tiebreaker
-  1. 🎵 **[cexiria - Over the Sphere (MTNTWarz & X a v y) \[Brilliant Andromeda, Boundless Universe\]](https://osu.ppy.sh/b/3860613)**
+  1. **[cexiria - Over the Sphere (MTNTWarz & X a v y) \[Brilliant Andromeda, Boundless Universe\]](https://osu.ppy.sh/b/3860613)**
   
 ### Round of 16
 
 - NoMod
   1. [Asterisk - Motteke! Sailor Fuku (Asterisk DnB Remix) (Rinze) \[kagami is cute\]](https://osu.ppy.sh/b/3851145)
   2. [Lotus Juice & Shihoko Hirata - Dance! (tasuke912) \[Oni\]](https://osu.ppy.sh/b/1037717)
-  3. 🎵 [SiLiS - Désir -Saigo no Odori- (komasy) \[Last Dance\]](https://osu.ppy.sh/b/3851177)
+  3. [SiLiS - Désir -Saigo no Odori- (komasy) \[Last Dance\]](https://osu.ppy.sh/b/3851177)
   4. [Aiobahn feat. KOTOKO - INTERNET OVERDOSE (\_gt) \[GIMMICK OVERDOSE\]](https://osu.ppy.sh/b/3851212)
 - Hidden
   1. [Yunomi feat. nicamoq - Hachimitsu Adventure (komasy) \[Oni\]](https://osu.ppy.sh/b/1613970)
@@ -231,14 +229,14 @@ This competition has come to an end and resulted in the following podium:
   2. [Petit Rabbit's - Daydream café (eiri-) \[Oni\]](https://osu.ppy.sh/b/1809873)
 - FreeMod
   1. [Soleily - Silent Rush (Skull Kid) \[Oni\]](https://osu.ppy.sh/b/1974229)
-  2. 🎵 [HowToPlayLN - Eternal Bliss (HowToPlayLN's 'Nirvana' Remix) (HiroK) \[Eternity\]](https://osu.ppy.sh/b/3841293)
+  2. [HowToPlayLN - Eternal Bliss (HowToPlayLN's 'Nirvana' Remix) (HiroK) \[Eternity\]](https://osu.ppy.sh/b/3841293)
 - Tiebreaker
   1. **[Ado - The Japan Record Award SPECIAL MEDLEY (\[Zeth\], cdh, Jerry) \[Kyougen\]](https://osu.ppy.sh/b/3841298)**
 
 ### Qualifiers
 
 - NoMod
-  1. 🎵 [Tartarate vs. cexiria - Pink Aquarium (Rinze) \[Pink Wave\]](https://osu.ppy.sh/b/3829220)
+  1. [Tartarate vs. cexiria - Pink Aquarium (Rinze) \[Pink Wave\]](https://osu.ppy.sh/b/3829220)
   2. [Kudou Chitose - CHO-DARI (\[Zeth\]) \[what a lovely day\]](https://osu.ppy.sh/b/3829296)
   3. [REDALiCE vs. Kobaryo - REKKA RESONANCE (BlackBN) \[ONI\]](https://osu.ppy.sh/b/3829296)
 - Hidden
