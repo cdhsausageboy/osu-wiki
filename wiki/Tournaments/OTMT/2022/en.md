@@ -118,34 +118,34 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **(CUSTOM SONG)** **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)** 
 
-<details>
-  <summary>Placeholders</summary>
-  
 ### Finals
 
 - NoMod
-  1. [Kobaryo - HUG AND KILL (vzk) \[nerf\]](https://osu.ppy.sh/beatmapsets/773541#taiko/1626066)
-  2. [USAO - Chariot (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1252022#taiko/2602256)
-  3. [Umeboshi Chazuke - Lollipop\*driveR (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/567620#taiko/1203103)
-  4. [Camellia - U Got That (Camellia's Neurofunk Bootleg) (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1037894#taiko/2169753)
-  5. [Akita Neru - Gotya Gotya Uruse! (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/764965#taiko/1608469)
+  1. [ Hommarju feat. mamiko -  Katayoku no tori (vzk) \[Judgment (OTMT ver.)\]](https://osu.ppy.sh/b/3880490)
+  2. **(CUSTOM SONG)** [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
+  3. [Se-U-Ra - Pale and dazzling dreamscape (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/b/3823066)
+  4. [Brandy - Cross Time !! (\_gt) \[Fever Time!!\]](https://osu.ppy.sh/b/3881848)
+  5. [Laur feat. Mishamo - Let's! Miracle\*HARDCORE! (N a N a) \[Waifucore\]](https://osu.ppy.sh/b/3680132)
+  6. [Apo11o program feat. Ritsuka - SolarOrbit -Connected with the Espabrother- (ikin5050) \[OTMT\]](https://osu.ppy.sh/b/3881865)
 - Hidden
-  1. [7\_7 - Katyukusa (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1430308#taiko/2944441)
-  2. [t+pazolite - Troll The Cowardly (Sick Candy Terror Of Feryquitous) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/808095#taiko/1695840)
+  1. [Yunomi - Indoor-kei nara Trackmaker (feat. nicamoq) (Eyenine) \[Every Day, Every Night\]](https://osu.ppy.sh/b/3881906)
+  2. [Satoshi (CV: Rica Matsumoto) - XY\&Z (Greenshell) \[Battle Bond (OTMT Ver.)\]](https://osu.ppy.sh/b/3881927)
 - HardRock
-  1. [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Breeze\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346527)
-  2. [Lzie - Say it.(Nightcore amen Mix) (maguro869) \[Say it.\]](https://osu.ppy.sh/beatmapsets/971578#taiko/2034239)
+  1. [Vivid BAD SQUAD - Alter Ego (cdh) \[Inner Oni\]](https://osu.ppy.sh/b/3881864)
+  2. [Laur vs Juggernaut. - Last Judgement (ikin5050) \[A Story of Liberation\]](https://osu.ppy.sh/b/3881222)
 - DoubleTime
-  1. [ZUN - Magus Night (x847606653) \[KG's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/44435#taiko/185475)
-  2. [Akiyama Uni - Sawa no Kappa no Gijutsuryoku (CallMeLyra) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1323908#taiko/2742327)
-  3. [Kry.exe - Hibike! (GOD82028) \[Oni\]](https://osu.ppy.sh/beatmapsets/1202264#taiko/2503905)
+  1. [Vivid BAD SQUAD x Hatsune Miku x Kagamine Rin - PaIII.SENSATION (cdh) \[INFATUATION\]](https://osu.ppy.sh/b/3881874)
+  2. [hololive IDOL PROJECT - Kirameki Rider\* (KTYN) \[Inner Oni\]](https://osu.ppy.sh/b/2351909)
 - FreeMod
-  1. [Tomoyuki Uchida - forever under construction (Jaltzu) \[roufou's ura oni\]](https://osu.ppy.sh/beatmapsets/1188147#taiko/2475988)
-  2. [S.S.H. - Daedalus (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/358799#taiko/793432)
-  3. [tarolabo - Miko (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2298926)
+  1. [fripSide - Sister's noise (takehirotei "20001th noise" remix) (Rinze) \[Railgun\]](https://osu.ppy.sh/b/3881880)
+  2. [momone - dont say you quit the art course (Rinze) \[resolution\]](https://osu.ppy.sh/b/3881885)
+  3. [METRO MEW - Kasou Na Heartbeat (Jerry) \[Serenity\]](https://osu.ppy.sh/b/3392670)
 - Tiebreaker
-  1. **[LeaF - Wizdomiot (extended ver.) (yassu-) \[Jealous Oni\]](https://osu.ppy.sh/beatmapsets/988522#taiko/2067808)**
+  1. **(CUSTOM SONG)** **[Sparxe - What Do You C? (gaston\_2199, Megafan & KyeX) \[A Sight To Behold\]](https://osu.ppy.sh/b/3881919)**
 
+<details>
+  <summary>Placeholders</summary>
+  
 ### Semifinals
   
 - NoMod
