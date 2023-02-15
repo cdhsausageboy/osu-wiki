@@ -302,9 +302,6 @@ Sunday, 13 Nov 2022:
 | K0rd31HP ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105031748) |
 | Ping7731 ::{ flag=MY }:: | 1 | **6** | ::{ flag=MY }:: **HenNEET** | [#1](https://osu.ppy.sh/community/matches/105034919) |
 | vun ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105035590) |
-  
-<details>
-  <summary>Placeholders</summary>
 
 ### Quarterfinals
 
@@ -386,38 +383,20 @@ Sunday, 23 Oct 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
- 
-</details>
+| **K0rd31HP** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Axorite | [#1](https://osu.ppy.sh/community/matches/104597465) |
+| vun ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **Megumin-Sama** | [#1](https://osu.ppy.sh/community/matches/104597464) |
+| **Megumin-Sama** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: shaofoong | [#1](https://osu.ppy.sh/community/matches/104598457) |
+| **Fury Dragon** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: arebang9462 | [#1](https://osu.ppy.sh/community/matches/104598447) |
+| **Kirowlet** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: Minisora | [#1](https://osu.ppy.sh/community/matches/104600061) |
+| Kyrzer ::{ flag=MY }:: | -1 | **0** | ::{ flag=MY }:: **5oulpoint** | *WBD* |
+| **pisu** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: CrabCow Fanboy | [#1](https://osu.ppy.sh/community/matches/104600846) |
+| **DXA FonG** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Ayashiki | [#1](https://osu.ppy.sh/community/matches/104600859) |
+| **vun** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: shaofoong | [#1](https://osu.ppy.sh/community/matches/104600835) |
+| Kyrzer ::{ flag=MY }:: | -1 | **0** | ::{ flag=MY }:: **arebang9462** | *WBD* |
+| **Minisora** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Axorite | [#1](https://osu.ppy.sh/community/matches/104602198) |
+| **5oulpoint** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: arebang9462 | [#1](https://osu.ppy.sh/community/matches/104602238) |
+| **PollyDoggo** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: NickkyOnce | [#1](https://osu.ppy.sh/community/matches/104604710) |
+| **HenNEET** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: NickkyOnce | [#1](https://osu.ppy.sh/community/matches/104606630) |
 
 ## Ruleset
 
