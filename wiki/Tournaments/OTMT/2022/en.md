@@ -400,7 +400,7 @@ Sunday, 23 Oct 2022:
 
 ### Registration rules
 
-1. This tournament is open to ALL players with the Malaysian flag on their profile. However, it is highly recommended that you are able to at least play the Group Stage pool of the previous OTMT if you are participating this year.
+1. This tournament is open to ALL players with the Malaysian flag on their profile. However, it is highly recommended that you are able to at least play the Group stage pool of the previous OTMT if you are participating this year.
 2. You MUST join the [osu!taiko Malaysia Discord Server](https://discord.gg/8PTAJJaPKa) to be eligible for the tournament.
 3. Registrations must be submitted through the [official OTMT website](https://otmt2022.osumalaysia.org/home) when the links are available on 17th September.
 3. All registered players will undergo an initial screening process by the osu!staff and any players that do not pass the screening will not be eligible to participate in the tournament. Results of the screening will be announced in the Discord server.
@@ -412,14 +412,14 @@ Sunday, 23 Oct 2022:
 2. ScoreV2 with the Team VS option will be used.
 3. The score format of each round is as listed below:
 
-| Round	| Format | Points to Win |
-| --- |   -----   | :---: |
-| Group Stage	| Best-of-9	| 5 |
-| Round of 16 |	Best-of-9	| 5 |
-| Quarterfinals	| Best-of-11 | 6 |
-| Semifinals | Best-of-11	| 6 |
-| Finals | Best-of-13 | 7 |
-| Grand Finals | Best-of-13 | 7 |
+| Round	| Format | 
+| --- |  --- |
+| Group stage	| Best of 9	| 
+| Round of 16 |	Best of 9	| 
+| Quarterfinals	| Best of 11 | 
+| Semifinals | Best of 11	| 
+| Finals | Best of 13 |
+| Grand Finals | Best of 13 | 
 
 4. The tournament host will release the mappool and schedules one week before each round.
 5. If required, players may request for a reschedule of their matches via the #otmt-reschedule channel in the Discord server.
@@ -428,8 +428,8 @@ Sunday, 23 Oct 2022:
 ### Tournament structure
 
 1. The tournament starts off with the Qualifiers stage to sort the players into their respective seedings in the Top 32 (Top Seed, High Seed, Low Seed, etc).
-2. The top 32 players will then advance to the Group Stages to further narrow down the players into the Top 16.
-3. In the Group Stages, players will be arranged into 8 separate groups of 4, with each group consisting of one player from each seed ranking (top, high, mid, low).
+2. The top 32 players will then advance to the Group stage to further narrow down the players into the Top 16.
+3. In the Group stage, players will be arranged into 8 separate groups of 4, with each group consisting of one player from each seed ranking (top, high, mid, low).
 4. The four players will be matched against each other throughout the weekend and the two (2) players with the highest number of W:L (win-loss) ratio will advance to the RO16.
 5. If the number of registrants are below 32, some groups will only consist of 3 players.
   
