@@ -439,8 +439,8 @@ Sunday, 23 Oct 2022:
 1. Players are required to be present at the times of their match, a reminder in the form of a Discord ping will be given to the players 15 minutes before every match.
 2. Invites to the room will then be sent out 10 minutes before each match.
 3. Failure to arrive on time will result in the following penalties:
-   - 5-minutes: Player’s warmup will be skipped.
-   - 10-minutes: Player’s map ban privilege goes to the opposing player.
+   - 5-minutes: Player's warmup will be skipped.
+   - 10-minutes: Player's map ban privilege goes to the opposing player.
    - 15-minutes: Player loses by default.
 4. Warmups must be sent to the referees at least 30 minutes before the start of the map, the warmup should be less than 3 minutes in length and not contain inappropriate content. The referee reserves the right to reject maps that they deem to be inappropriate.
 5. At the start of each match, players will be asked to **!roll** to determine who picks or bans first. The player with the higher roll will get to pick first and ban second.
