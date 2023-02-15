@@ -1,5 +1,5 @@
 # osu!taiko Malaysian Tournament
 
-Index page for all of the 3 Digit Taiko World Cup series.
+Index page for all iterations of the osu!taiko Malaysian Tournament (OTMT).
 
 - [OTMT 2022](2022)
