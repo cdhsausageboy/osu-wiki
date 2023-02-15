@@ -15,8 +15,9 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-09-17 to 2022-10-01 |
-| Qualifiers Showcase | 2022-10-08 |
-| Qualifiers & Seedings Reveal | 2022-10-15 to 2022-10-16 |
+| Qualifier Showcase | 2022-10-08 |
+| Qualifiers | 2022-10-15 to 2022-10-16 |
+| Seeding Reveal | 2022-10-16 |
 | Group stage | 2022-10-22 to 2022-10-23 |
 | Round of 16 | 2022-10-29 to 2022-10-30 |
 | Quarterfinals | 2022-11-05 to 2022-11-06 |
@@ -28,10 +29,10 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | RM407 (~94USD), 4 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line, Profile Badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | RM207 (~48USD), 2 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
-| *4th place* | RM56 (~13USD), 1 month osu Supporter Tag, Custom IRIS Voice Line |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | RM407 (~94USD), 4 month osu!supporter, custom deskpad, custom IRIS voice line, profile adge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | RM207 (~48USD), 2 month osu!supporter, custom deskpad, custom IRIS voice line |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu!supporter, custom deskpad, custom IRIS voice line |
+| *4th place* | RM56 (~13USD), 1 month osu!supporter, custom IRIS voice line |
 
 ![OTMT 2022 Winner Badge](img/badge2022.png "OTMT 2022 Winner Badge")
 
