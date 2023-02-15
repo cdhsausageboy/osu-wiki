@@ -93,6 +93,8 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
+🎵 **= Custom song**
+
 ### Grand Finals
   
 - NoMod
@@ -116,13 +118,13 @@ This competition has come to an end and resulted in the following podium:
   2. [EmoCosine - Nekojarashi (ler1211) \[Nya! (OTMT Edit.)\]](https://osu.ppy.sh/b/3891674)
   3. [Loli in early 20s - Wa Yoderi (Megafan) \[Seishinbyou (OTMT Ver.)\]](https://osu.ppy.sh/b/3892525)
 - Tiebreaker
-  1. **(CUSTOM SONG)** **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)** 
+  1. 🎵 **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)** 
 
 ### Finals
 
 - NoMod
   1. [ Hommarju feat. mamiko -  Katayoku no tori (vzk) \[Judgment (OTMT ver.)\]](https://osu.ppy.sh/b/3880490)
-  2. **(CUSTOM SONG)** [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
+  2. 🎵 [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
   3. [Se-U-Ra - Pale and dazzling dreamscape (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/b/3823066)
   4. [Brandy - Cross Time !! (\_gt) \[Fever Time!!\]](https://osu.ppy.sh/b/3881848)
   5. [Laur feat. Mishamo - Let's! Miracle\*HARDCORE! (N a N a) \[Waifucore\]](https://osu.ppy.sh/b/3680132)
@@ -141,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
   2. [momone - dont say you quit the art course (Rinze) \[resolution\]](https://osu.ppy.sh/b/3881885)
   3. [METRO MEW - Kasou Na Heartbeat (Jerry) \[Serenity\]](https://osu.ppy.sh/b/3392670)
 - Tiebreaker
-  1. **(CUSTOM SONG)** **[Sparxe - What Do You C? (gaston\_2199, Megafan & KyeX) \[A Sight To Behold\]](https://osu.ppy.sh/b/3881919)**
+  1. 🎵 **[Sparxe - What Do You C? (gaston\_2199, Megafan & KyeX) \[A Sight To Behold\]](https://osu.ppy.sh/b/3881919)**
 
 ### Semifinals
   
@@ -165,12 +167,12 @@ This competition has come to an end and resulted in the following podium:
   2. [Curren - worldwidesuperstar (Rinze) \[Idol\]](https://osu.ppy.sh/b/3871508)
   3. [Erehamonika - Der Wald (Kors K Remix) (NoFool) \[Hard Oni\]](https://osu.ppy.sh/b/932407)
 - Tiebreaker
-  1. **(CUSTOM SONG)** **[HowToPlayLN - Disintegration of the Isolated Forest (Ph0eNiiXZ & Kusuhara Yui) \[Sacred Utopia Collab (OTMT edit)\]](https://osu.ppy.sh/b/3871512)**
+  1. 🎵 **[HowToPlayLN - Disintegration of the Isolated Forest (Ph0eNiiXZ & Kusuhara Yui) \[Sacred Utopia Collab (OTMT edit)\]](https://osu.ppy.sh/b/3871512)**
   
 ### Quarterfinals
 
 - NoMod
-  1. **(CUSTOM SONG)** [cexiria - Early Trial (KTYN) \[Trial\]](https://osu.ppy.sh/b/3860528)
+  1. 🎵 [cexiria - Early Trial (KTYN) \[Trial\]](https://osu.ppy.sh/b/3860528)
   2. [Snails House - waiting for you in snowing city (Megafan) \[fubuki. (otmt ver.)\]](https://osu.ppy.sh/b/3860636)
   3. [ELFENSJoN - Naraku no Majou (arcpotato) \[Deceit\]](https://osu.ppy.sh/b/3860537)
   4. [Stray Kids - God's Menu (cdh) \[satania milk\]](https://osu.ppy.sh/b/3860544)
@@ -188,14 +190,14 @@ This competition has come to an end and resulted in the following podium:
   2. [DUSTCELL - DERO (Genjuro) \[INNER ONI\]](https://osu.ppy.sh/b/3033441)
   3. [Alex C. feat Yasmin K. - Angel of Darkness (Nightcore Mix) (Rinze) \[OTMT Angel\]](https://osu.ppy.sh/b/3860600)
 - Tiebreaker
-  1. **(CUSTOM SONG)** **[cexiria - Over the Sphere (MTNTWarz & X a v y) \[Brilliant Andromeda, Boundless Universe\]](https://osu.ppy.sh/b/3860613)**
+  1. 🎵 **[cexiria - Over the Sphere (MTNTWarz & X a v y) \[Brilliant Andromeda, Boundless Universe\]](https://osu.ppy.sh/b/3860613)**
   
 ### Round of 16
 
 - NoMod
   1. [Asterisk - Motteke! Sailor Fuku (Asterisk DnB Remix) (Rinze) \[kagami is cute\]](https://osu.ppy.sh/b/3851145)
   2. [Lotus Juice & Shihoko Hirata - Dance! (tasuke912) \[Oni\]](https://osu.ppy.sh/b/1037717)
-  3. **(CUSTOM SONG)** [SiLiS - Désir -Saigo no Odori- (komasy) \[Last Dance\]](https://osu.ppy.sh/b/3851177)
+  3. 🎵 [SiLiS - Désir -Saigo no Odori- (komasy) \[Last Dance\]](https://osu.ppy.sh/b/3851177)
   4. [Aiobahn feat. KOTOKO - INTERNET OVERDOSE (\_gt) \[GIMMICK OVERDOSE\]](https://osu.ppy.sh/b/3851212)
 - Hidden
   1. [Yunomi feat. nicamoq - Hachimitsu Adventure (komasy) \[Oni\]](https://osu.ppy.sh/b/1613970)
