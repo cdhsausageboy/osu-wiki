@@ -249,63 +249,62 @@ This competition has come to an end and resulted in the following podium:
   1. [ReoNa - Seimeisen (cdh) \[Marble Phantasm\]](https://osu.ppy.sh/b/3829235)
 - FreeMod
   1. [DUSTCELL - Daraku Seikatsu (Rinze) \[Corrupt\]](https://osu.ppy.sh/b/3829245)
-  
-<details>
-  <summary>Placeholders</summary>
 
 ## Match results
 
 ### Grand Finals
 
-Saturday, 29 May 2021:
+Saturday, 26 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :-: | :-- |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| JyaKeii ::{ flag=MY }:: | 1 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105290868) |
 
-Saturday, 29 May 2021:
+Saturday, 27 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :-: | :-- |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| CrabCow ::{ flag=MY }:: | 5 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105313589) |
+| HHVanilla Ice ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105314827) |
 
 ### Finals
 
-Saturday, 22 May 2021:
+Saturday, 19 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :-: | :-- |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| **vernonlim** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: HenNEET | [#1](https://osu.ppy.sh/community/matches/105157104) |
 
-Sunday, 23 May 2021:
+Sunday, 20 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :-: | :-- |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| vun ::{ flag=MY }:: | 3 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105175090) |
+| vernonlim ::{ flag=MY }:: | 2 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105175090) |
+| JyaKeii ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105180263) |
 
 ### Semifinals
 
-Saturday, 15 May 2021:
+Saturday, 12 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| **K0rd31HP** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/mp/105007846) |
+| **HenNEET** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Megumin-Sama | [#1](https://osu.ppy.sh/mp/105008568) |
+| **Ping7731** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/mp/105009207) |
+| **JyaKeii** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: vernonlim | [#1](https://osu.ppy.sh/mp/105013643) |
+| **HHVanilla Ice** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Admirable | [#1](https://osu.ppy.sh/community/matches/105017733) |
 
-Sunday, 16 May 2021:
+Sunday, 13 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| K0rd31HP ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105031748) |
+| Ping7731 ::{ flag=MY }:: | 1 | **6** | ::{ flag=MY }:: **HenNEET** | [#1](https://osu.ppy.sh/community/matches/105034919) |
+| vun ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105035590) |
+  
+<details>
+  <summary>Placeholders</summary>
 
 ### Quarterfinals
 
