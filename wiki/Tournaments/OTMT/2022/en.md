@@ -330,7 +330,7 @@ Saturday, 29 Oct 2022:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
 | **HenNEET** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/mp/104717113) |
-| **HHVanilla Ice** ::{ flag=MY }:: | **5** | 12 | ::{ flag=MY }:: pisu | [#1](https://osu.ppy.sh/community/matches/104717619) |
+| **HHVanilla Ice** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: pisu | [#1](https://osu.ppy.sh/community/matches/104717619) |
 | Megumin-Sama ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **K0rd31HP** | [#1](https://osu.ppy.sh/community/matches/104720469) |
 | **Ping7731** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: 5oulpoint | [#1](https://osu.ppy.sh/community/matches/104721943) |
 | **JyaKeii** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/community/matches/104724934) |
