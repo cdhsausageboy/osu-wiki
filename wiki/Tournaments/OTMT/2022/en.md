@@ -99,27 +99,27 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
   
 - NoMod
-  1. [Kobaryo - Transceiver FX (Hivie) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1328018#taiko/2751152)
-  2. [Tanchiky - ENERGY SYNERGY MATRIX (Genjuro) \[E.S.M.\]](https://osu.ppy.sh/beatmapsets/1247020#taiko/2591999)
-  3. [Camellia - Xeroa (\_DUSK\_) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1331332#taiko/2759921)
-  4. [Camellia - Syzygia (Ulqui) \[Inner Oni (NSV)\]](https://osu.ppy.sh/beatmapsets/782362#taiko/1642869)
-  5. [Melt-Banana - Lie Lied Lies (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1098194#taiko/2294546)
+  1. [Camellia - R U Still XXXX? (qish & My Angel Subaru) \[Collab of the xxxx\]](https://osu.ppy.sh/b/3891622)
+  2. [Kolaa - async (ph0eniixz) \[ascended (otmt. ver)\]](https://osu.ppy.sh/b/3891658)
+  3. [xavy - ko (taiko\_maniac1811) \[nuko]](https://osu.ppy.sh/b/3891702)
+  4. [saaa + kei\_iwata + stuv + wakadori - New York Back Raise (cdh & \_gt) \[ALL IN\]](https://osu.ppy.sh/b/3891624)
+  5. [Camellia feat. Nanahira - FULLFLAVOR ONDO (Megafan) \[FULLFLAVOR TAIKO\]](https://osu.ppy.sh/b/3892519)
+  6. [Ann-Melts P - JINSEI (cdh) \[ULTIMATE (OTMT Edit.)\]](https://osu.ppy.sh/b/3891631)
 - Hidden
-  1. [Rerulili feat. Kagamine Ren - Seisou Bakuretsu Boy (7\_7 bootleg) (HEKUSODASU) \[7oni\]](https://osu.ppy.sh/beatmapsets/1196340#taiko/2494631)
-  2. [8284 - Connaextion (Nwolf) \[-- --- .-. ... .\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1398838)
+  1. [OKIMOCHI EXPRESSION - DISCO BROTHERS (HiroK) \[Inner Oni\]](https://osu.ppy.sh/b/3892411)
+  2. [yukikaze - SAYURINOYATU (arcpotato & Rinze) \[ARC & LER'S INTER SECTION\]](https://osu.ppy.sh/b/3891653)
 - HardRock
-  1. [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[6th Sister 7\_7\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737951)
-  2. [Ametsuchi Enikki - Reimei Sketchbook (Y O U T A) \[Sketch\]](https://osu.ppy.sh/beatmapsets/571204#taiko/1210546)
+  1. [Mizuno Kenji vs. Anayama Daisuke - m3 (MTNTWarz) \[Resentment\]](https://osu.ppy.sh/b/3891690)
+  2. [kessoku band - Guitar, Loneliness and Blue Planet (Jerry, Raphalge & MTNTWarz) \[bocc\]](https://osu.ppy.sh/b/3891758)
 - DoubleTime
-  1. [PSYQUI - Multitalents (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1013224#taiko/2120823)
-  2. [Nhato - Magic (nyanmi-1828) \[Glint\]](https://osu.ppy.sh/beatmapsets/571741#taiko/1211643)
-  3. [Toby Fox (remixed by Camellia) - Spider Dance (Camellia Remix) (hikiko-) \[Oni\]](https://osu.ppy.sh/beatmapsets/565226#taiko/1512798)
+  1. [MAISONdes feat. KAF, Tsumiki - Tokyo Shandy Rendez-vous (cdh) \[ONI\]](https://osu.ppy.sh/b/3891656)
+  2. [Yorushika - Hole in the Heart (ler1211, arcpotato & Hivie) \[Inter Oni\]](https://osu.ppy.sh/beatmapsets/1889513#taiko/3891660)
 - FreeMod
-  1. [Street - Sakura Fubuki (Ata Remix) (Zetera) \[Sakura Oni\]](https://osu.ppy.sh/beatmapsets/1443098#taiko/2968377)
-  2. [Igorrr - Robert (DukeDukeDura) \[Essence\]](https://osu.ppy.sh/beatmapsets/777877#taiko/1633996)
-  3. [PSYQUI feat. Such - Your voice so... (Capu) \[Cychlo's voice so...\]](https://osu.ppy.sh/beatmapsets/1163892#taiko/2439177)
+  1. [Sound piercer "Espitz" - Mirage Fragrance (\[Zeth\] & MTNTWarz) \[Reminiscence\]](https://osu.ppy.sh/b/3891692)
+  2. [EmoCosine - Nekojarashi (ler1211) \[Nya! (OTMT Edit.)\]](https://osu.ppy.sh/b/3891674)
+  3. [Loli in early 20s - Wa Yoderi (Megafan) \[Seishinbyou (OTMT Ver.)\]](https://osu.ppy.sh/b/3892525)
 - Tiebreaker
-  1. **[Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix) (Maimaing) \[Rest in Peace\]](https://osu.ppy.sh/beatmapsets/1395893#taiko/2883063)**
+  1. **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Rest in Peace\]](https://osu.ppy.sh/b/3891701)** **(CUSTOM SONG)**
 
 ### Finals
 
