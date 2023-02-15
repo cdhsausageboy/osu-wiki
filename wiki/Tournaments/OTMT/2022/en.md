@@ -143,34 +143,33 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **(CUSTOM SONG)** **[Sparxe - What Do You C? (gaston\_2199, Megafan & KyeX) \[A Sight To Behold\]](https://osu.ppy.sh/b/3881919)**
 
-<details>
-  <summary>Placeholders</summary>
-  
 ### Semifinals
   
 - NoMod
   1. [Tsumiki - Anonymous Fanfare (KTYN) \[// 404 Not Found. //\]](https://osu.ppy.sh/b/3871454)
-  2. [DJHASH1M0T0KANNA - BangB00gie (7\_7) \[YuniNana Boogie\]](https://osu.ppy.sh/beatmapsets/1079552#taiko/2258650)
-  3. [Hatsune Miku - Talent Shredder (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/537044#taiko/1138147)
-  4. [KOTONOHOUSE - Labyrinth (Nifty) \[Black Sail\]](https://osu.ppy.sh/beatmapsets/1386801#taiko/2864592)
-  5. [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690344#taiko/1461118)
+  2. [cosMo@BousouP - Second Heaven GravityPfArrange (Hirok) \[Inner Oni\]](https://osu.ppy.sh/b/1597508)
+  3. [chelmico - Easy Breezy(Kur@ra Bootleg) (KMYK\_ & KTYN) \[yuki & KTYN's Boogie\]](https://osu.ppy.sh/b/2315433)
+  4. [leroy - dyed my hair black (7\_7) \[@w@\]](https://osu.ppy.sh/b/2315433)
+  5. [Power of Nature - Shounen wa Sora o Tadoru (MTNTWarz) \[Beyond with the Sky\]](https://osu.ppy.sh/b/3243480)
 - Hidden
-  1. [BilliumMoto - four veiled stars (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2084704)
-  2. [lapix feat. Luschel - Cranberry City (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1133066#taiko/2366551)
+  1. [KANKAN - Babirusa (gaston\_2199) \[Psychedelic Trip (OTMT Ver.)\]](https://osu.ppy.sh/b/3871817)
+  2. [Slax - Loli Bomb (Rinze) \[Love Bomb \[1.2x Rate\]\]](https://osu.ppy.sh/b/3288268)
 - HardRock
-  1. [braven - Nyctophobia (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/1291170#taiko/2680127)
-  2. [Mrs. GREEN APPLE - Samama Festival! (katagiri bootleg) (KTYN) \[KTYN's Festival! (BPM225)\]](https://osu.ppy.sh/beatmapsets/1220204#taiko/2538385)
+  1. [Kobaryo - Dimension Hacker (ikin5050) \[Hack the World\]](https://osu.ppy.sh/b/3871487)
+  2. [Three - Ego Rock (long ver.) (gaston\_2199) \[Inner Oni (OTMT Ver.)\]](https://osu.ppy.sh/b/3871819)
 - DoubleTime
-  1. [MAX COVERI - RUNNING IN THE 90'S (Default Guy) \[Retro Oni\]](https://osu.ppy.sh/beatmapsets/1369915#taiko/2832591)
-  2. [Ono Hideyuki - sola (Mapper 31) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/131347#taiko/330848)
-  3. [Sakuzyo - Eater Merry (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293612)
+  1. [Hatsuki Yura - -Shadows Kage Iro Yousei Ehon- (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/b/3871509)
+  2. [Nene - Hare wo Matsu (cdh) \[Unwavering Courage\]](https://osu.ppy.sh/b/3871489)
 - FreeMod
-  1. [sky_delta - Kreuz (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/844081#taiko/1765808)
-  2. [Hyphen - ^/7(L|?\[_(L+#<>+&|^(o) (\[Zeth\]) \[Faceless\]](https://osu.ppy.sh/beatmapsets/732250#taiko/1545035)
-  3. [Sakuzyo - Lie (komasy) \[False\]](https://osu.ppy.sh/beatmapsets/920188#taiko/1921771)
+  1. [KOTOKO - Sakuranbo Kiss (KTYN) \[Maiden's Heart\]](https://osu.ppy.sh/b/3871506)
+  2. [Curren - worldwidesuperstar (Rinze) \[Idol\]](https://osu.ppy.sh/b/3871508)
+  3. [Erehamonika - Der Wald (Kors K Remix) (NoFool) \[Hard Oni\]](https://osu.ppy.sh/b/932407)
 - Tiebreaker
-  1. **[t+pazolite vs RoughSketch - GRK Spice (tpz Overheat Remix) (Backfire) \[Taikocalypse DX\]](https://osu.ppy.sh/beatmapsets/799203#taiko/1678044)**
+  1. **(CUSTOM SONG)** **[HowToPlayLN - Disintegration of the Isolated Forest (Ph0eNiiXZ & Kusuhara Yui) \[Sacred Utopia Collab (OTMT edit)\]](https://osu.ppy.sh/b/3871512)**
 
+<details>
+  <summary>Placeholders</summary>
+  
 ### Quarterfinals
 
 - NoMod
