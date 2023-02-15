@@ -122,7 +122,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [ Hommarju feat. mamiko -  Katayoku no tori (vzk) \[Judgment (OTMT ver.)\]](https://osu.ppy.sh/b/3880490)
-  2. 🎵 [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
+  2. [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
   3. [Se-U-Ra - Pale and dazzling dreamscape (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/b/3823066)
   4. [Brandy - Cross Time !! (\_gt) \[Fever Time!!\]](https://osu.ppy.sh/b/3881848)
   5. [Laur feat. Mishamo - Let's! Miracle\*HARDCORE! (N a N a) \[Waifucore\]](https://osu.ppy.sh/b/3680132)
