@@ -189,33 +189,32 @@ This competition has come to an end and resulted in the following podium:
   3. [Alex C. feat Yasmin K. - Angel of Darkness (Nightcore Mix) (Rinze) \[OTMT Angel\]](https://osu.ppy.sh/b/3860600)
 - Tiebreaker
   1. **(CUSTOM SONG)** **[cexiria - Over the Sphere (MTNTWarz & X a v y) \[Brilliant Andromeda, Boundless Universe\]](https://osu.ppy.sh/b/3860613)**
-
-<details>
-  <summary>Placeholders</summary>
   
 ### Round of 16
 
 - NoMod
-  1. [sabi\_c - Class B (Maeda) \[Diff A\]](https://osu.ppy.sh/beatmapsets/1295205#taiko/2687456)
-  2. [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
-  3. [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
-  4. [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+  1. [Asterisk - Motteke! Sailor Fuku (Asterisk DnB Remix) (Rinze) \[kagami is cute\]](https://osu.ppy.sh/b/3851145)
+  2. [Lotus Juice & Shihoko Hirata - Dance! (tasuke912) \[Oni\]](https://osu.ppy.sh/b/1037717)
+  3. **(CUSTOM SONG)** [SiLiS - Désir -Saigo no Odori- (komasy) \[Last Dance\]](https://osu.ppy.sh/b/3851177)
+  4. [Aiobahn feat. KOTOKO - INTERNET OVERDOSE (\_gt) \[GIMMICK OVERDOSE\]](https://osu.ppy.sh/b/3851212)
 - Hidden
-  1. [Sou - tontiki rantiki tin nomi kikou (nekomusya1234) \[Oni\]](https://osu.ppy.sh/beatmapsets/1313318#taiko/2721748)
-  2. [Tatsh feat. Ayane - STARLIGHT TWILIGHT -GC edit- (ll-oscar) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/502704#taiko/1069808)
+  1. [Yunomi feat. nicamoq - Hachimitsu Adventure (komasy) \[Oni\]](https://osu.ppy.sh/b/1613970)
+  2. [Machita Chima - Chimera (Jerry) \[chime\]](https://osu.ppy.sh/b/3851217)
 - HardRock
-  1. [Chicala Lpis - Blackest Luxury Car (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1098791#taiko/2295648)
-  2. [MIMI feat. Hatsune Miku - Ai no Sukima (Rock Cover) (Hivie) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1096932#taiko/2292104)
+  1. [Adust Rain - Pretty Pretty Dark (MTNTWarz) \[Dull and Dim\]](https://osu.ppy.sh/b/3851196)
+  2. [Reol - Q? (Fynbi) \[O?\]](https://osu.ppy.sh/b/3076722)
 - DoubleTime
-  1. [TUYU - Territory Battle (Jerry) \[Oni\]](https://osu.ppy.sh/beatmapsets/1363181#taiko/2820285)
-  2. [Lena Raine - Pigstep (Fallmorph) \[Oni\]](https://osu.ppy.sh/beatmapsets/1162493#taiko/2424957)
+  1. [Hoshimachi Suisei - Jibun Katte Dazzling (Maimaing) \[Oni\]](https://osu.ppy.sh/b/3534919)
+  2. [solfa feat. Chata - hot splash! (MTNTWarz) \[mtnt's oni\]](https://osu.ppy.sh/b/3305960)
 - FreeMod
-  1. [REDALiCE - Masakari Blade (Kobayu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1238727#taiko/2575509)
-  2. [otetsu - Minamo no Sakura, Yume wa Sakayume (hikikochan) \[Dreamless\]](https://osu.ppy.sh/beatmapsets/442068#taiko/950736)
-  3. [Frums - 24eeev0-$ (Gamelan4) \[rubies87's Oni\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2331733)
+  1. [Yoisaki Kanade x Hatsune Miku - identity (Shinsekai-) \[Chi's Real Identity\]](https://osu.ppy.sh/b/3426125)
+  2. [Kairiki Bear feat. Hatsune Miku - Bug (\[Zeth\]) \[Paranoia\]](https://osu.ppy.sh/b/3851165)
 - Tiebreaker
-  1. **[Camellia - Quaoar (Nepuri) \[Transneptunian\]](https://osu.ppy.sh/beatmapsets/931741#taiko/1945451)**
+  1. **[Houshou Marine - I'm Your Treasure Box (qish, Fynbi & Eyenine) \[Oh Treasure, My Treasure\]](https://osu.ppy.sh/b/3851207)**
 
+<details>
+  <summary>Placeholders</summary>
+  
 ### Group stage
 
 - NoMod
