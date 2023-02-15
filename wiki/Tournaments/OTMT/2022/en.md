@@ -91,9 +91,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [Jyakeii](https://osu.ppy.sh/users/12086753) |
 | *4th place* | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/users/10167542) |
 
-<details>
-  <summary>Placeholders</summary>
-
 ## Mappools
 
 ### Grand Finals
@@ -119,8 +116,11 @@ This competition has come to an end and resulted in the following podium:
   2. [EmoCosine - Nekojarashi (ler1211) \[Nya! (OTMT Edit.)\]](https://osu.ppy.sh/b/3891674)
   3. [Loli in early 20s - Wa Yoderi (Megafan) \[Seishinbyou (OTMT Ver.)\]](https://osu.ppy.sh/b/3892525)
 - Tiebreaker
-  1. **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Rest in Peace\]](https://osu.ppy.sh/b/3891701)** **(CUSTOM SONG)**
+  1. **(CUSTOM SONG)** **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)** 
 
+<details>
+  <summary>Placeholders</summary>
+  
 ### Finals
 
 - NoMod
