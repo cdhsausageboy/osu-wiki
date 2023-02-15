@@ -308,72 +308,81 @@ Sunday, 13 Nov 2022:
 
 ### Quarterfinals
 
-Saturday, 8 May 2021:
+Saturday, 5 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| **Megumin-Sama** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: PollyDoggo | [#1](https://osu.ppy.sh/mp/104867722) |
+| 5oulpoint ::{ flag=MY }:: | -1 | **0** | ::{ flag=MY }:: **Admirable** | *WBD* |
+| HHVanilla Ice ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **JyaKeii** | [#1](https://osu.ppy.sh/community/matches/104872046) |
+| **DXA FonG** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Kirowlet | [#1](https://osu.ppy.sh/community/matches/104873236) |
+| Ping7731 ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/104874540) |
+| K0rd31HP ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **vernonlim** | [#1](https://osu.ppy.sh/community/matches/104875898) |
 
-Sunday, 9 May 2021:
+Sunday, 6 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() | 
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| HenNEET ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **vun** | [#1](https://osu.ppy.sh/community/matches/104895179) |
+| pisu ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **Fury Dragon** | [#1](https://osu.ppy.sh/community/matches/104899742) | 
 
 ### Round of 16
 
-Saturday, 1 May 2021:
+Saturday, 29 Oct 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| **HenNEET** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/mp/104717113) |
+| **HHVanilla Ice** ::{ flag=MY }:: | **5** | 12 | ::{ flag=MY }:: pisu | [#1](https://osu.ppy.sh/community/matches/104717619) |
+| Megumin-Sama ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **K0rd31HP** | [#1](https://osu.ppy.sh/community/matches/104720469) |
+| **Ping7731** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: 5oulpoint | [#1](https://osu.ppy.sh/community/matches/104721943) |
+| **JyaKeii** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/community/matches/104724934) |
+| Admirable ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/104726284) |
 
-Sunday, 2 May 2021:
+Sunday, 30 Oct 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| **vun** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: Kirowlet | [#1](https://osu.ppy.sh/community/matches/104744976) |
+| PollyDoggo ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **vernonlim** | [#1](https://osu.ppy.sh/community/matches/104747846) |
 
 ### Group stage
 
-Saturday, 24 April 2021:
+Thursday, 20 Oct 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
-| Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
+| **CrabCow** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Agagak | [#1](https://osu.ppy.sh/community/matches/104538537) |
 
-Sunday, 25 April 2021:
+Friday, 21 Oct 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :--- | :---: |
+| **CrabCow Fanboy** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Agagak | [#1](https://osu.ppy.sh/community/matches/104556227) |
+
+Saturday, 22 Oct 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | --: | :-: | :--- | :---: |
+| **Admirable** ::{ flag=MY }:: | **0** | -1 | ::{ flag=MY }:: zhev | *WBD* |
+| K0rd31HP ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **Kirowlet** | [#1](https://osu.ppy.sh/community/matches/104574010) |
+| **vernonlim** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/community/matches/104574603) |
+| **HHVanilla Ice** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Admirable | [#1](https://osu.ppy.sh/community/matches/104575934) |
+| **Fury Dragon** ::{ flag=MY }:: | **0** | -1 | ::{ flag=MY }:: Kyrzer | *WBD* |
+| **HenNEET** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: PollyDoggo | [#1](https://osu.ppy.sh/community/matches/104575934) |
+| **HHVanilla Ice** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: zhev | [#1](https://osu.ppy.sh/community/matches/104575996) |
+| **CrabCow** ::{ flag=MY }:: | **0** | -1 | ::{ flag=MY }:: pisu | *WBD* |
+| **JyaKeii** ::{ flag=MY }:: | **0** | -1 | ::{ flag=MY }:: King Hong | *WBD* |
+| **K0rd31HP** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Minisora | [#1](https://osu.ppy.sh/community/matches/104580084) |
+| JyaKeii ::{ flag=MY }:: | 4 | **5** | ::{ flag=MY }:: **Ping7731** | [#1](https://osu.ppy.sh/community/matches/104579719) |
+| **Kirowlet** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Axorite | [#1](https://osu.ppy.sh/community/matches/104579883) |
+| **Fury Dragon** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: 5oulpoint | [#1](https://osu.ppy.sh/community/matches/104581555) |
+| **CrabCow** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: CrabCow Fanboy | [#1](https://osu.ppy.sh/community/matches/104581418) |
+| **pisu** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Agagak | [#1](https://osu.ppy.sh/community/matches/104582209) |
+| **vernonlim** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Ayashiki | [#1](https://osu.ppy.sh/community/matches/104583111) |
+| **Ping7731** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: King Hong | [#1](https://osu.ppy.sh/community/matches/104583381) |
+
+Sunday, 23 Oct 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
