@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
   
 - NoMod
-  1. [katagiri - #2wise4u (maguro869) \[#magur0\]](https://osu.ppy.sh/beatmapsets/995928#taiko/2083254)
+  1. [Tsumiki - Anonymous Fanfare (KTYN) \[// 404 Not Found. //\]](https://osu.ppy.sh/b/3871454)
   2. [DJHASH1M0T0KANNA - BangB00gie (7\_7) \[YuniNana Boogie\]](https://osu.ppy.sh/beatmapsets/1079552#taiko/2258650)
   3. [Hatsune Miku - Talent Shredder (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/537044#taiko/1138147)
   4. [KOTONOHOUSE - Labyrinth (Nifty) \[Black Sail\]](https://osu.ppy.sh/beatmapsets/1386801#taiko/2864592)
