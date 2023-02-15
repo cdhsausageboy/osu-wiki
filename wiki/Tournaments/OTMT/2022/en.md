@@ -101,7 +101,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   1. [Camellia - R U Still XXXX? (qish & My Angel Subaru) \[Collab of the xxxx\]](https://osu.ppy.sh/b/3891622)
   2. [Kolaa - async (ph0eniixz) \[ascended (otmt. ver)\]](https://osu.ppy.sh/b/3891658)
-  3. [xavy - ko (taiko\_maniac1811) \[nuko]](https://osu.ppy.sh/b/3891702)
+  3. [xavy - ko (taiko\_maniac1811) \[nuko\]](https://osu.ppy.sh/b/3891702)
   4. [saaa + kei\_iwata + stuv + wakadori - New York Back Raise (cdh & \_gt) \[ALL IN\]](https://osu.ppy.sh/b/3891624)
   5. [Camellia feat. Nanahira - FULLFLAVOR ONDO (Megafan) \[FULLFLAVOR TAIKO\]](https://osu.ppy.sh/b/3892519)
   6. [Ann-Melts P - JINSEI (cdh) \[ULTIMATE (OTMT Edit.)\]](https://osu.ppy.sh/b/3891631)
