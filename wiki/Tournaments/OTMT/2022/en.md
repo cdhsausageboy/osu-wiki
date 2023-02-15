@@ -166,33 +166,33 @@ This competition has come to an end and resulted in the following podium:
   3. [Erehamonika - Der Wald (Kors K Remix) (NoFool) \[Hard Oni\]](https://osu.ppy.sh/b/932407)
 - Tiebreaker
   1. **(CUSTOM SONG)** **[HowToPlayLN - Disintegration of the Isolated Forest (Ph0eNiiXZ & Kusuhara Yui) \[Sacred Utopia Collab (OTMT edit)\]](https://osu.ppy.sh/b/3871512)**
-
-<details>
-  <summary>Placeholders</summary>
   
 ### Quarterfinals
 
 - NoMod
-  1. [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
-  2. [t+pazolite vs. P\*Light - IZANA (eiri-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1098381#taiko/2294846)
-  3. [AZKi - Fake.Fake.Fake (WTHBRO) \[Heaxys' Oni\]](https://osu.ppy.sh/beatmapsets/1283761#taiko/2723322)
-  4. [PSYQUI - Architect (Nifty) \[Brutalism\]](https://osu.ppy.sh/beatmapsets/874516#taiko/1827736)
+  1. **(CUSTOM SONG)** [cexiria - Early Trial (KTYN) \[Trial\]](https://osu.ppy.sh/b/3860528)
+  2. [Snails House - waiting for you in snowing city (Megafan) \[fubuki. (otmt ver.)\]](https://osu.ppy.sh/b/3860636)
+  3. [ELFENSJoN - Naraku no Majou (arcpotato) \[Deceit\]](https://osu.ppy.sh/b/3860537)
+  4. [Stray Kids - God's Menu (cdh) \[satania milk\]](https://osu.ppy.sh/b/3860544)
 - Hidden
-  1. [Erio wo kamatte-chan - Os-Uchujin (RM J-core Remix) (7\_7) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/736797#taiko/1554891)
-  2. [Sewerslvt - inlove (Horiiizon) \[incompatible\]](https://osu.ppy.sh/beatmapsets/1311932#taiko/2719092)
+  1. [Nekomata Okayu - Nothing's Working Out (Jerry) \[damn\]](https://osu.ppy.sh/b/3860628)
+  2. [Chroma - Sayonara Planet Wars (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/b/1609346)
 - HardRock
-  1. [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Reol) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/167783#taiko/824509)
-  2. [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690025#taiko/1460477)
+  1. [Ado - Love Ka? (Eyenine) \[Oni ka?\]](https://osu.ppy.sh/b/3860549)
+  2. [VESPERBELL YOMI - Kanzen Kankaku Dreamer (Cut Ver.) (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/b/3860541)
 - DoubleTime
-  1. [Vitamin C - Vacation (D3kuu) \[Happy oni\]](https://osu.ppy.sh/beatmapsets/1025990#taiko/2145737)
-  2. [Tezuka x Qayo - NiNi (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192546)
+  1. [Sangatsu no Phantasia - Pastel Rain (Seren58) \[Rain\]](https://osu.ppy.sh/b/2821979)
+  2. [Nijisanji - Virtual to Live (taiko\_ryuki) \[Anniversary\]](https://osu.ppy.sh/b/2142581)
 - FreeMod
-  1. [Sakura Miko,Shirakami Fubuki,Natsuiro Matsuri,Housyou Marine - Gimme ginmi virtua ru saikou star!!!! (Maimaing) \[Groovin Groovin Party!\]](https://osu.ppy.sh/beatmapsets/1423035#taiko/2930560)
-  2. [Notorious - GIFT (7\_7) \[oni\]](https://osu.ppy.sh/beatmapsets/1300448#taiko/2697591)
-  3. [PolyphonicBranch - Nijigen Dream Fever (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1410471#taiko/2907913)
+  1. [Ado - Rebellion (taiko\_maniac1811) \[Rebel\]](https://osu.ppy.sh/b/3860621)
+  2. [DUSTCELL - DERO (Genjuro) \[INNER ONI\]](https://osu.ppy.sh/b/3033441)
+  3. [Alex C. feat Yasmin K. - Angel of Darkness (Nightcore Mix) (Rinze) \[OTMT Angel\]](https://osu.ppy.sh/b/3860600)
 - Tiebreaker
-  1. **[rejection - Signal feat. Such (Cychloryn) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1104277#taiko/2307668)**
+  1. **(CUSTOM SONG)** **[cexiria - Over the Sphere (MTNTWarz & X a v y) \[Brilliant Andromeda, Boundless Universe\]](https://osu.ppy.sh/b/3860613)**
 
+<details>
+  <summary>Placeholders</summary>
+  
 ### Round of 16
 
 - NoMod
