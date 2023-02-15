@@ -31,7 +31,7 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | RM407 (~94USD), 4 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line, Profile Badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | RM207 (~48USD), 2 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu Supporter Tag, Custom Deskpad, Custom IRIS Voice Line |
-| *4th place* | RM56 (~25USD), 1 month osu Supporter Tag, Custom IRIS Voice Line |
+| *4th place* | RM56 (~13USD), 1 month osu Supporter Tag, Custom IRIS Voice Line |
 
 ![OTMT 2022 Winner Badge](img/badge2022.png "OTMT 2022 Winner Badge")
 
