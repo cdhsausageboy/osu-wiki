@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - NoMod
-  1. 🎵 [cexiria - Early Trial (KTYN) \[Trial\]](https://osu.ppy.sh/b/3860528)
+  1. [cexiria - Early Trial (KTYN) \[Trial\]](https://osu.ppy.sh/b/3860528)
   2. [Snails House - waiting for you in snowing city (Megafan) \[fubuki. (otmt ver.)\]](https://osu.ppy.sh/b/3860636)
   3. [ELFENSJoN - Naraku no Majou (arcpotato) \[Deceit\]](https://osu.ppy.sh/b/3860537)
   4. [Stray Kids - God's Menu (cdh) \[satania milk\]](https://osu.ppy.sh/b/3860544)
