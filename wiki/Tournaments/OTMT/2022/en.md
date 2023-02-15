@@ -213,30 +213,45 @@ This competition has come to an end and resulted in the following podium:
   2. [Kairiki Bear feat. Hatsune Miku - Bug (\[Zeth\]) \[Paranoia\]](https://osu.ppy.sh/b/3851165)
 - Tiebreaker
   1. **[Houshou Marine - I'm Your Treasure Box (qish, Fynbi & Eyenine) \[Oh Treasure, My Treasure\]](https://osu.ppy.sh/b/3851207)**
-
-<details>
-  <summary>Placeholders</summary>
   
 ### Group stage
 
 - NoMod
-  1. [Rob Gasser - Taking Over (feat. Miyoki) (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1118937#taiko/2339203)
-  2. [The Super Mario Players feat. Kate Davis - Jump Up, Super Star! (Short ver.) (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/710971#taiko/1503031)
-  3. [Iglooghost - Bug Thief (D3kuu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1259868#taiko/2620661)
+  1. [Yuaru - Asu no Yozora Shoukaihan (KyeX) \[Oni\]](https://osu.ppy.sh/b/3841223)
+  2. [Vivid BAD SQUAD - Ready Steady (cdh) \[Ready Steady Bom Bi Bi\]](https://osu.ppy.sh/b/3841233)
+  3. [BlackY vs. Yooh - MEGATON BLAST (tpz Overcute Remix) (MTNTWarz) \[babu geyser\]](https://osu.ppy.sh/b/3841203)
 - Hidden
-  1. [Sakuzyo - Future Coaster (yuzu\_\_rinrin) \[Oni\]](https://osu.ppy.sh/beatmapsets/665612#taiko/1411288)
-  2. [Akira Complex - Ether Strike (Axer) \[Oni\]](https://osu.ppy.sh/beatmapsets/1026097#taiko/2148715)
+  1. [Toyko - Some Nights (Jerry) \[man\]](https://osu.ppy.sh/b/3841346)
+  2. [IsekaiJoucho - Kyoukankaku Obake (Yuemiao) \[Yuemiao's Oni (OTMT edit)\]](https://osu.ppy.sh/b/3841215)
 - HardRock
-  1. [Yu\_Asahina - Trickstarz (kitafuma) \[Oni\]](https://osu.ppy.sh/beatmapsets/1118075#taiko/2335499)
-  2. [ARForest - Birds of Plague (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1241060#taiko/2588192)
+  1. [Tatsh - HEAVENLY MOON (taiko\_maniac1811) \[ONI\]](https://osu.ppy.sh/b/3841324)
+  2. [inabakumori - Hello Marina (Rinze) \[Connection\]](https://osu.ppy.sh/b/3841255)
 - DoubleTime
-  1. [Helblinde - Unconquered (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1052250#taiko/2199046)
-  2. [Goose house - Hikaru nara (radar) \[Solo!\]](https://osu.ppy.sh/beatmapsets/1207466#taiko/2514437)
+  1. [ZUTOMAYO - MIRROR TUNE (Ph0eNiiXz) \[REFLECTION (OTMT edit)\]](https://osu.ppy.sh/b/3841264)
+  2. [Petit Rabbit's - Daydream café (eiri-) \[Oni\]](https://osu.ppy.sh/b/1809873)
 - FreeMod
-  1. [A? - Arrogation (Cut Ver.) (ZTH) \[Oni\]](https://osu.ppy.sh/beatmapsets/1291023#taiko/2681860)
-  2. [t+pazolite - Our Wrenally (Uncut Edition) (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/892110#taiko/1864987)
+  1. [Soleily - Silent Rush (Skull Kid) \[Oni\]](https://osu.ppy.sh/b/1974229)
+  2. 🎵 [HowToPlayLN - Eternal Bliss (HowToPlayLN's 'Nirvana' Remix) (HiroK) \[Eternity\]](https://osu.ppy.sh/b/3841293)
 - Tiebreaker
-  1. **[Venetian Snares - Epidermis (Horiiizon) \[HiroK's Oni\]](https://osu.ppy.sh/beatmapsets/1262133#taiko/2663673)**
+  1. **[Ado - The Japan Record Award SPECIAL MEDLEY (\[Zeth\], cdh, Jerry) \[Kyougen\]](https://osu.ppy.sh/b/3841298)**
+
+### Qualifiers
+
+- NoMod
+  1. 🎵 [Tartarate vs. cexiria - Pink Aquarium (Rinze) \[Pink Wave\]](https://osu.ppy.sh/b/3829220)
+  2. [Kudou Chitose - CHO-DARI (\[Zeth\]) \[what a lovely day\]](https://osu.ppy.sh/b/3829296)
+  3. [REDALiCE vs. Kobaryo - REKKA RESONANCE (BlackBN) \[ONI\]](https://osu.ppy.sh/b/3829296)
+- Hidden
+  1. [Triad Primus - Trancing Pulse (Jerry) \[i pick the middle one\]](https://osu.ppy.sh/b/3829268)
+- HardRock
+  1. [Wonderlands x Showtime - TONDEMO-WONDERZ (MTNTWarz) \[goofy ahh ahh babu Oni\]](https://osu.ppy.sh/b/3829242)
+- DoubleTime
+  1. [ReoNa - Seimeisen (cdh) \[Marble Phantasm\]](https://osu.ppy.sh/b/3829235)
+- FreeMod
+  1. [DUSTCELL - Daraku Seikatsu (Rinze) \[Corrupt\]](https://osu.ppy.sh/b/3829245)
+  
+<details>
+  <summary>Placeholders</summary>
 
 ## Match results
 
