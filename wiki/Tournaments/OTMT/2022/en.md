@@ -72,11 +72,11 @@ The osu!taiko Malaysian Tournament 2022 was run by various community members.
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/u/12803930) | ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395) | ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008) | N/A | 
-| **B** | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/u/10167542) | ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/u/15019527) | ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/u/6859713) | | N/A |
+| **B** | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/u/10167542) | ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/u/15019527) | ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/u/6859713) | N/A |
 | **C** | ::{ flag=MY }:: [JyaKeii](https://osu.ppy.sh/u/12086753) | ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284) | ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/u/7263047) | N/A |
 | **D** | ::{ flag=MY }:: [K0rd31HP](https://osu.ppy.sh/u/15231510) | ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/u/7066483) | ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/u/9627666) | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/u/9124278) |
 | **E** | ::{ flag=MY }:: [vun](https://osu.ppy.sh/u/6932501) | ::{ flag=MY }:: [Megumin-Sama](https://osu.ppy.sh/u/6201335) | ::{ flag=MY }:: [shaofoong](https://osu.ppy.sh/u/2398341) | N/A |
-| **F** | ::{ flag=MY }:: [Fury Dragon](https://osu.ppy.sh/u/6332530) | ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/u/5616675) | | ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/u/10194919) | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/u/1810773) |
+| **F** | ::{ flag=MY }:: [Fury Dragon](https://osu.ppy.sh/u/6332530) | ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/u/5616675) | ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/u/10194919) | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/u/1810773) |
 | **G** | ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/u/14225265) | ::{ flag=MY }:: [PollyDoggo](https://osu.ppy.sh/u/11584592) | ::{ flag=MY }:: [NickkyOnce](https://osu.ppy.sh/u/10508577) | N/A |
 | **H** | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/u/9755504) | ::{ flag=MY }:: [pisu](https://osu.ppy.sh/u/8339729) | ::{ flag=MY }:: [Haryume](https://osu.ppy.sh/u/9351030) | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/u/3645490) |
 
