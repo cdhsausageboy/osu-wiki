@@ -71,7 +71,7 @@ The osu!taiko Malaysian Tournament 2022 was run by various community members.
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 
+| **A** | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/u/12803930) | ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395) | ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008) | | 
 | **B** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
 | **C** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
 | **D** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
