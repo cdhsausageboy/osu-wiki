@@ -257,13 +257,13 @@ This competition has come to an end and resulted in the following podium:
 Saturday, 26 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | JyaKeii ::{ flag=MY }:: | 1 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105290868) |
 
 Saturday, 27 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | CrabCow ::{ flag=MY }:: | 5 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105313589) |
 | HHVanilla Ice ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105314827) |
 
@@ -272,13 +272,13 @@ Saturday, 27 Nov 2022:
 Saturday, 19 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | **vernonlim** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: HenNEET | [#1](https://osu.ppy.sh/community/matches/105157104) |
 
 Sunday, 20 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | vun ::{ flag=MY }:: | 3 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105175090) |
 | vernonlim ::{ flag=MY }:: | 2 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105175090) |
 | JyaKeii ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105180263) |
@@ -288,7 +288,7 @@ Sunday, 20 Nov 2022:
 Saturday, 12 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | **K0rd31HP** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/mp/105007846) |
 | **HenNEET** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Megumin-Sama | [#1](https://osu.ppy.sh/mp/105008568) |
 | **Ping7731** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/mp/105009207) |
@@ -298,7 +298,7 @@ Saturday, 12 Nov 2022:
 Sunday, 13 Nov 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | K0rd31HP ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105031748) |
 | Ping7731 ::{ flag=MY }:: | 1 | **6** | ::{ flag=MY }:: **HenNEET** | [#1](https://osu.ppy.sh/community/matches/105034919) |
 | vun ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/105035590) |
@@ -311,14 +311,14 @@ Sunday, 13 Nov 2022:
 Saturday, 8 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 
 Sunday, 9 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() | 
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
@@ -331,7 +331,7 @@ Sunday, 9 May 2021:
 Saturday, 1 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
@@ -339,7 +339,7 @@ Saturday, 1 May 2021:
 Sunday, 2 May 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
@@ -351,7 +351,7 @@ Sunday, 2 May 2021:
 Saturday, 24 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
@@ -376,7 +376,7 @@ Saturday, 24 April 2021:
 Sunday, 25 April 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | --: | :-: | :--- | :-- |
+| --: | --: | :-: | :--- | :---: |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
 | Jerry ::{ flag=MY }:: | 0 | 0 | ::{ flag=MY }:: Jerry | [#1]() |
